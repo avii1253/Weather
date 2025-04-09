@@ -1,7 +1,7 @@
 import { Routes, Route, NavLink } from "react-router-dom"
 import { Home } from "../Home/Home"
 import { About } from "../About/About"
-import "./nav.css"
+import "./Nav.css"
 
 const Nav = () => {
 
